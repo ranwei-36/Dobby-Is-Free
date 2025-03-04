@@ -1,0 +1,12 @@
+After earning his freedom and exploring the wizarding world, Dobby discovered a passion for magical creatures. 
+With his boundless enthusiasm and natural gift for understanding creatures, he started his own business: Dobby’s Enchanted Safaris. 
+Wizards from all over the world flocked to join his tours, which promised breathtaking encounters with unicorns, hippogriffs, and even the elusive thestrals—all in their natural habitats.
+
+On one bright morning, Dobby gathered a group of eager wizards in the Forbidden Forest.
+“Welcome to Dobby’s Enchanted Safari! Dobby promises a magical and SAFE adventure!” he said, his ears flopping with excitement.
+
+The tour began smoothly, but soon Dobby faced an unexpected situation, and now the adventurers had to make a choice.
+---
+Approach the Hippogriff herd: hippogriff.txt
+Follow the Thestral tracks: thestral.txt
+Explore the unicorn meadow: unicorn.txt

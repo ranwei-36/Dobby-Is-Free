@@ -1,0 +1,11 @@
+The Weasleys’ garden was in turmoil. 
+Garden gnomes, typically mischievous but manageable, had banded together, holding tiny protest signs made from twigs and leaves. 
+They demanded fair treatment: softer landing spots when thrown, less spinning during evictions, and an upgrade from the old boots the Weasleys sometimes used to chase them off.
+
+Dobby, visiting the Burrow, watched the chaos unfold as gnomes catapulted themselves at Ron and Ginny from bushes. 
+“Dobby will help! Gnomes deserve fairness too... but not too much fairness.”
+
+As Dobby stepped forward to help, he faced a choice:
+---
+Negotiate with the gnomes: negotiate.txt
+Charm the garden: charm.txt

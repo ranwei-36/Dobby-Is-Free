@@ -1,0 +1,5 @@
+Dobby decides to embark on a new adventure. 
+He hears two calls for help. 
+---
+A goblin in need: goblin.txt
+A garden gnome rebellion: garden.txt

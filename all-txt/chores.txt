@@ -1,0 +1,8 @@
+Dobby gathers the gnomes in a small circle and uses his magic to create tiny tools that fit perfectly in their hands. 
+“Gnomes will help the garden grow! Dobby shows how!” he guides them through simple tasks like weeding and watering.
+
+The mischievous gnomes, initially skeptical, quickly warm up to the idea of being involved in the garden’s upkeep. 
+They take pride in their newfound purpose, turning tasks into games and racing to see who can pull the most weeds. 
+The garden flourishes under their care, and the Weasleys watch in amazement as their mischievous pests transform into enthusiastic helpers.
+---
+Ending 4: ending_4.txt

@@ -1,0 +1,11 @@
+Dobby waves his hands, and the garden transforms before everyone’s eyes. 
+The bushes grow cozy nooks with soft moss for the gnomes, glowing with magical warmth in winter and providing shade in summer. 
+The garden paths sparkle gently, creating designated “gnome lanes” for safe passage.
+
+The gnomes are mesmerized by the changes and eagerly explore their new accommodations. 
+However, some mischievous gnomes still test the boundaries.
+What should Dobby do next to deal with the mischievous group? 
+---
+Set up enchanted scarecrows to guard: guard.txt
+Teach the gnomes simple chores to keep them occupied: chores.txt
+

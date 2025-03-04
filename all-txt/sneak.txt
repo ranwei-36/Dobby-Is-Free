@@ -1,0 +1,8 @@
+Dobby carefully steps around the glitter-sneezing dragon, managing to avoid its glittery sneezes. 
+But as he moves deeper into the vault, he triggers a hidden pressure plate in the floor. 
+Suddenly, a cascade of enchanted boulders begins rolling toward him, threatening to crush him!
+
+How should Dobby handle the rolling boulders?
+---
+Use his magic to freeze the boulders: freeze.txt
+Duck and roll through a small gap: gap.txt

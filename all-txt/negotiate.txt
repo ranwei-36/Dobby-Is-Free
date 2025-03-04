@@ -1,0 +1,13 @@
+Dobby approaches the gnome leader, who wears a tiny leaf hat and waves his twig sign proudly.
+“Dobby understands gnome struggles,” Dobby says, bowing respectfully. “But gardens must also stay nice for wizards!”
+
+The leader squints at Dobby but agrees to talk. 
+After a lengthy discussion (and a few bribes in the form of shiny buttons and enchanted biscuits), Dobby proposes a compromise:
+
+1. Softer landing spots for evictions will be provided.
+2. Eviction spins will be limited to three rotations.
+3. The Weasleys will allow the gnomes to keep one bush as their designated “safe zone.”
+
+The gnomes cheer at the fair treatment, dismantling their protest signs.
+---
+Ending 4: ending_4.txt

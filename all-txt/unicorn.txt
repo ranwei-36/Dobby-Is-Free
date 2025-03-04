@@ -1,0 +1,16 @@
+As they moved further into the forest, the group stumbled upon a trail lined with soft silver hoofprints. 
+Dobby’s ears perked up.
+“Unicorns, this way!” he whispered, motioning for everyone to tread lightly.
+
+The group found a meadow glowing softly under sunlight filtering through the trees. 
+A unicorn stood at its center, its coat shimmering like pure moonlight. The group froze in awe.
+Suddenly, a squirrel darted through the underbrush, startling the unicorn into stepping back cautiously.
+
+The group looked to Dobby for guidance.
+Dobby enchanted a nearby patch of flowers to bloom rapidly. 
+The unicorn, intrigued and reassured, stepped forward to investigate.
+
+Now that the unicorn seemed calmer, what should the group do? 
+---
+Approach the unicorn: approach.txt
+Stay at a distance and observe: observe.txt 

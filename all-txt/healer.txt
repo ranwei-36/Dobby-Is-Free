@@ -1,0 +1,15 @@
+After earning his freedom, Dobby discovered his favorite thing in the world—having a job and getting paid! 
+He loved the feeling of being useful and valued, and his natural talent for helping others made him gravitate toward a career in healing. 
+Remembering the challenges he had overcome, Dobby decided to help those in need, whether house-elves, magical beings, or wizards.
+
+Dobby began his internship at St. Mungo’s Hospital for Magical Maladies and Injuries. 
+His unique house-elf magic and enthusiasm for employment made him an instant hit. 
+
+One day, a wizard cursed by a powerful and chaotic spell was rushed into the hospital. 
+Sparks flew from the wizard’s fingertips, causing nearby objects to float and explode in showers of light. 
+The healers were overwhelmed, unable to contain the dangerous magic. 
+Dobby, eager to help, stepped forward, but he had to decide carefully what to do.
+---
+Focus on the wizard: focus.txt
+Calm the chaos: chaos.txt
+

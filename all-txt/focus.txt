@@ -1,0 +1,17 @@
+Dobby prioritizes the wizard, ignoring the chaos around him. 
+He takes the patient’s hand and channeling his magic. 
+The curse begins to stabilize, but the surrounding chaos continues unchecked. 
+Nearby potion bottles fall off a shelf, and a healer slips on the spilled liquid, landing in a pile of glittering sparks.
+
+“Watch out!” one healer calls, but it’s too late. 
+Another healer hurries toward the scene, stepping directly onto the slippery potion. 
+His feet fly out from under them, and he lands unceremoniously in a pile of glittering sparks. 
+
+Now covered in blue goo and sparkling like a living Christmas ornament, the healer groans.
+
+“Really, Dobby?”
+
+What should Dobby do next to turn the situation around? 
+---
+Summon the bubble: summon.txt
+Call for help: call.txt

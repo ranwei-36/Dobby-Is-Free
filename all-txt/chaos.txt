@@ -1,0 +1,8 @@
+Dobby decides to use his house-elf magic to soothe the chaotic energy. 
+He claps his hands, saying, “Dobby will calm the magic!”
+A wave of gentle energy spreads over the room, slowing the sparks and settling the floating objects.
+With the chaos under control, Dobby turns his attention to the cursed wizard, who is now much easier to treat.
+Which technique does Dobby use to treat the curse?
+---
+House-elf magic only: elf.txt
+Use an absorption crystal: crystal.txt

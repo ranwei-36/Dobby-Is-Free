@@ -1,0 +1,8 @@
+Deeper in the forest, Dobby spots faint hoofprints that can only belong to thestrals. 
+“Ah, thestrals!” Dobby whispers. “Gentle creatures, but not everyone can see them.”
+As the group follows the tracks, a rustling sound spooks them. 
+A wizard accidentally steps on a branch, startling a thestral, which begins to take flight. 
+Dobby gently calms it by offering an apple and whispering soothing words, earning the trust of the shy creature. 
+Those who can see the thestral are awed, while others feel its presence through a soft, mysterious breeze.
+---
+Ending 2: ending_2.txt

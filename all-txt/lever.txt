@@ -1,0 +1,19 @@
+When Dobby pulls the lever, the Glitter Dragon lets out one final harmless sneeze, sending a sparkling pink cloud into the air. 
+The dragon snorts, then curls up peacefully, its glittery glow dimming as it falls into a deep slumber.
+
+“Dobby did it!” the elf cheers, brushing glitter off his ears. Grimble looks around nervously.
+“Let’s grab the treasure and get out of here before something else wakes up!”
+
+The vault door swings open with a low rumble, revealing Grimble’s long-lost family treasure. 
+Inside is a golden chest filled with goblin-made artifacts, ancient coins, and precious gemstones. 
+Grimble’s eyes widen as he retrieves a small, intricately carved stone.
+“This is it,” he whispers. “My family’s legacy. Dobby, you’ve done more than I could’ve hoped.”
+
+Suddenly, alarms echo through the vault. 
+The enchanted goblin portraits on the walls come to life, shouting, “INTRUDERS! SEIZE THEM!” 
+The glittery dragon stirs, its nostrils flaring as it snorts a sleepy puff of shimmering smoke.
+
+Grimble grabs Dobby’s hand. “We’ve got to go—NOW!”
+---
+Dobby uses magic to teleport: teleport.txt
+Dobby uses distraction magic: distraction.txt

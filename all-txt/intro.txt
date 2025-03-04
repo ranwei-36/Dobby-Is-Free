@@ -1,0 +1,6 @@
+After being freed by Harry Potter, Dobby is overwhelmed with excitement and confusion. 
+He stands outside the gates of Malfoy Manor, clutching the sock that granted him freedom. 
+For the first time in his life, Dobby realizes he can choose his own destiny.
+---
+Adventure: adventure.txt
+Career: career.txt 

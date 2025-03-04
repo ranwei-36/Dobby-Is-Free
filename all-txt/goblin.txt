@@ -1,0 +1,16 @@
+Dobby decides to help the goblin, Grimble, who is stuck in a magical vault deep within Gringotts.
+As they sneak into the bank under the cover of night, they must navigate some enchanted traps.
+
+The first room they enter has a giant, jewel-encrusted door labeled “Authorized Personnel Only: Intruders Beware!” 
+Grimble hesitates, “Dobby, are you sure about this? The traps in here are dangerous!”
+
+Dobby answers, “Dobby will try his best! No trap can stop a free elf!” 
+
+As they push open the heavy door, they are greeted by an enormous dragon chained to the far wall. 
+However, this is no ordinary dragon. Its nostrils sparkle ominously.
+
+Grimble points at a lever on the wall labeled “Glitter Suppressant. Use only in emergencies.”
+“Quick, Dobby! We need to decide fast!”
+---
+Pull the lever: lever.txt
+Try to Sneak Past the Dragon: sneak.txt

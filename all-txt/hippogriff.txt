@@ -1,0 +1,15 @@
+The group stumbles upon a grazing herd of hippogriffs.
+A majestic leader, silver-feathered and proud, eyes the group cautiously.
+
+“Hippogriffs are very proud,” Dobby whispers. “Wizards must bow and wait for their permission before approaching!”
+
+One nervous wizard hesitates, shuffling nervously, causing the leader to squawk in alarm and spread its wings. 
+The herd begins to stir uneasily.
+
+Dobby steps in immediately, bowing so low his nose nearly touches the ground. 
+After a tense moment, the hippogriff leader bows back, and the herd relaxes, allowing the group to marvel at their beauty.
+
+Dobby decides to enhance the group's experience. 
+---
+Offer a ride on the hippogriff: ride.txt
+Feed the hippogriffs enchanted treats: feed.txt

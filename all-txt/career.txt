@@ -1,0 +1,5 @@
+Dobby decides to find a new career to earn his own way.
+He has two offers.
+---
+Magic healer: healer.txt
+Magical creature tour guide: magical.txt
